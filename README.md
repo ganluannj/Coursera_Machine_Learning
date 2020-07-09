@@ -6,3 +6,4 @@
  * ex4: Neural network (backpropagation part) for digits 
  * ex5: Regularized linear regression and bias v.s. variance
  * ex6: Support Vector Machine and Spam Classification
+ * ex7: K-means Clustering and Principal Component Analysis
